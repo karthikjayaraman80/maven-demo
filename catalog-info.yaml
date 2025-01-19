@@ -4,7 +4,7 @@ metadata:
   name: "maven-demo"
   description: A simple maven repository for "maven-demo"
   annotations:
-    github.com/project-slug: /
+    github.com/project-slug: karthikjayaraman80/maven-demo
 spec:
   type: service
   owner: user:guest
