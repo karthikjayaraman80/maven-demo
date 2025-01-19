@@ -5,6 +5,7 @@ metadata:
   description: A simple maven repository for "maven-demo"
   annotations:
     github.com/project-slug: karthikjayaraman80/maven-demo
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: user:guest
