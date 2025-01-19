@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "maven-demo"
+  description: A simple maven repository for "maven-demo"
+  annotations:
+    github.com/project-slug: /
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
