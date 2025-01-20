@@ -14,5 +14,5 @@ spec:
   type: service
   owner: flex
   lifecycle: production
-  system: apm00005
+  sysubcomponentOf: apm00005
 
