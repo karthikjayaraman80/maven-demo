@@ -13,6 +13,6 @@ metadata:
 spec:
   type: service
   owner: flex
-  lifecycle: experimental
+  lifecycle: production
   parent: apm00005
 
