@@ -6,8 +6,13 @@ metadata:
   annotations:
     github.com/project-slug: karthikjayaraman80/maven-demo
     backstage.io/techdocs-ref: dir:./maven-doc
+  links:
+    - url: https://github.com/karthikjayaraman80/maven-demo
+      title: Github Code Repository
+      icon: github
 spec:
   type: service
   owner: flex
   lifecycle: experimental
   parent: apm00005
+
